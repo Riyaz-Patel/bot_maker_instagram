@@ -88,10 +88,10 @@ class color:
 # result = subprocess.Popen(["tor"], shell=True, cwd="C:/Users/patel/Desktop/Tor Browser/Browser/TorBrowser/Tor")
 # time.sleep(8)
 #
-# # riyazrog = 16:B7C7A90BD9E25C5760322FCE03B4A86A0210BE7E831542AAE7E92AB824
+# # riyazrog = 16:B7C7A90BD9E********************************
 # #
-# # 16:A5049A961A5F935B60A90B10E4BE9B159337513C63DE28A42D31F85EA5
-# # 16:BE08C7BC9E8F696C603C454218BF31D6793E9C623DC17F2CF03C0A752B
+# # 16:A5049A961A5********************************
+# # 16:BE08C7BC9E8********************************
 # # parametres et test du proxy / si proxies=proxy ne foncionne pas alors tor est bien fermé
 # #proxy = {}     #désactive le proxy
 #
